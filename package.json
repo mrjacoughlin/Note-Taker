@@ -20,6 +20,6 @@
   "homepage": "https://github.com/mrjacoughlin/Note-Taker#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "uuid": "^3.4.0"
+    "uuid": "^8.3.2"
   }
 }
